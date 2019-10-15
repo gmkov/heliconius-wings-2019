@@ -1,0 +1,19 @@
+dir="1.data/example.images/"
+name = File.nameWithoutExtension; 
+makeLine(492, 3250, 738, 3252);
+run("Set Scale...", "distance=246.0081 known=5 pixel=1 unit=mm global");
+makeRectangle(2648, 80, 2504, 1576);
+run("Crop");
+run("Options...", "iterations=5 count=1 pad");
+run("Enhance Contrast...", "saturated=5");
+setOption("BlackBackground", false);
+run("Make Binary");
+run("Close-");
+run("Fill Holes");
+run("Close-");
+run("Fill Holes");
+run("Set Measurements...", "area fit shape feret's limit add display redirect=None decimal=3");
+run("Analyze Particles...", "size=200-Infinity show=Outlines display exclude summarize record");
+selectWindow("Results");
+saveAs("Results",  dir+ "results.csv");
+

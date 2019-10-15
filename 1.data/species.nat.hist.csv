@@ -1,0 +1,84 @@
+species,subsp,sp.subsp,pupal.mating,min.eggs.laid,max.eggs.laid,mean.eggs.laid,larvae,host.plant.usage,wing.pattern,mimicry.ring
+charithonia,bassleri,charithonia_bassleri,yes,1,5,,neutral,generalist,charitonia,
+clysonymus,,clysonymus_,yes,1,1,1,solitary,generalist,black.yellow.red,tele
+clysonymus,clysonymus,clysonymus_clysonymus,yes,1,1,1,solitary,generalist,black.yellow.red,tele
+clysonymus,hygiana,clysonymus_hygiana,yes,1,1,1,solitary,generalist,black.yellow.red,tele
+congener,congener,congener_congener,yes,5,40,,gregarious,specialist,sara,sara
+cydno,,cydno_,no,1,1,1,solitary,generalist,cydno,cydno
+cydno,cydnides,cydno_cydnides,no,1,1,1,solitary,generalist,cydno,cydno
+cydno,weymeri,cydno_weymeri,no,1,1,1,solitary,generalist,cydno,cydno
+cydno,chioneus,cydno_chioneus,no,1,1,1,solitary,generalist,cydno,cydno
+cydno,alithea,cydno_alithea,no,1,1,1,solitary,generalist,cydno,cydno
+doris,,doris_,no,50,200,125,gregarious,specialist,sara,sara
+doris,doris,doris_doris,no,50,200,125,gregarious,specialist,sara,sara
+eleuchia,,eleuchia_,no,20,50,35,gregarious,specialist,cydno,cydno
+eleuchia,eleuchia,eleuchia_eleuchia,no,20,50,35,gregarious,specialist,cydno,cydno
+eleuchia,eleusinus,eleuchia_eleusinus,no,20,50,35,gregarious,specialist,cydno,cydno
+eleuchia,primularis,eleuchia_primularis,no,20,50,35,gregarious,specialist,cydno,cydno
+elevatus,willmotti,elevatus_willmotti,no,1,3,2,solitary,generalist,rayed,era.mel
+erato,chestertonii x venus,erato_chestertonii x venus,yes,1,5,3,solitary,generalist,hybrid,era.mel
+erato,notabilis,erato_notabilis,yes,1,5,3,solitary,generalist,black.pink,era.mel
+erato,cyrbia,erato_cyrbia,yes,1,5,3,solitary,generalist,blue,era.mel
+erato,venus,erato_venus,yes,1,5,3,solitary,generalist,blue,era.mel
+erato,venus x chestertonii,erato_venus x chestertonii,yes,1,5,3,solitary,generalist,hybrid,era.mel
+erato,hydara x petiverana,erato_hydara x petiverana,yes,1,5,3,solitary,generalist,hybrid,era.mel
+erato,notabilis x lativitta,erato_notabilis x lativitta,yes,1,5,3,solitary,generalist,hybrid,era.mel
+erato,hydara x amalfreda,erato_hydara x amalfreda,yes,1,5,3,solitary,generalist,hybrid,era.mel
+erato,dignus x lativitta,erato_dignus x lativitta,yes,1,5,3,solitary,generalist,hybrid,era.mel
+erato,venus hybrid,erato_venus hybrid,yes,1,5,3,solitary,generalist,hybrid,era.mel
+erato,demophoon,erato_demophoon,yes,1,5,3,solitary,generalist,postman,era.mel
+erato,hydara,erato_hydara,yes,1,5,3,solitary,generalist,postman,era.mel
+erato,petiverana,erato_petiverana,yes,1,5,3,solitary,generalist,postman,era.mel
+erato,dignus,erato_dignus,yes,1,5,3,solitary,generalist,postman,era.mel
+erato,guarica,erato_guarica,yes,1,5,3,solitary,generalist,postman,era.mel
+erato,colombina,erato_colombina,yes,1,5,3,solitary,generalist,postman,era.mel
+erato,chestertonii,erato_chestertonii,yes,1,5,3,solitary,generalist,rayed,era.mel
+erato,lativitta,erato_lativitta,yes,1,5,3,solitary,generalist,rayed,era.mel
+erato,etylus,erato_etylus,yes,1,5,3,solitary,generalist,rayed,era.mel
+erato,erato,erato_erato,yes,1,5,3,solitary,generalist,rayed,era.mel
+erato,amalfreda,erato_amalfreda,yes,1,5,3,solitary,generalist,rayed,era.mel
+erato,reductimacula,erato_reductimacula,yes,1,5,3,solitary,generalist,rayed,era.mel
+hecale,melicerta,hecale_melicerta,,,,,,,silvanoform,numata
+hecale,australis,hecale_australis,,,,,,,silvanoform,numata
+hecalesia,formosus,hecalesia_formosus,,,,,,,silvanoform,numata
+hierax,,hierax_,,,,,gregarious,,black.yellow.red,tele
+melpomene,plesseni,melpomene_plesseni,no,1,1,1,solitary,generalist,black.pink,era.mel
+melpomene,vulcanus,melpomene_vulcanus,no,1,1,1,solitary,generalist,blue,era.mel
+melpomene,vulcanus x melpomene,melpomene_vulcanus x melpomene,no,1,1,1,solitary,generalist,hybrid,era.mel
+melpomene,melpomene x thel x iope,melpomene_melpomene x thel x iope,no,1,1,1,solitary,generalist,hybrid,era.mel
+melpomene,melpomene x rosina,melpomene_melpomene x rosina,no,1,1,1,solitary,generalist,hybrid,era.mel
+melpomene,hybrid,melpomene_hybrid,no,1,1,1,solitary,generalist,hybrid,era.mel
+melpomene,plesseni x malleti,melpomene_plesseni x malleti,no,1,1,1,solitary,generalist,hybrid,era.mel
+melpomene,malleti x bellula,melpomene_malleti x bellula,no,1,1,1,solitary,generalist,hybrid,era.mel
+melpomene,cythera,melpomene_cythera,no,1,1,1,solitary,generalist,blue,era.mel
+melpomene,rosina,melpomene_rosina,no,1,1,1,solitary,generalist,postman,era.mel
+melpomene,amaryllis,melpomene_amaryllis,no,1,1,1,solitary,generalist,postman,era.mel
+melpomene,bellula,melpomene_bellula,no,1,1,1,solitary,generalist,postman,era.mel
+melpomene,melpomene,melpomene_melpomene,no,1,1,1,solitary,generalist,rayed,era.mel
+melpomene,malleti,melpomene_malleti,no,1,1,1,solitary,generalist,rayed,era.mel
+melpomene,aglaope,melpomene_aglaope,no,1,1,1,solitary,generalist,rayed,era.mel
+melpomene,ecuadorensis,melpomene_ecuadorensis,no,1,1,1,solitary,generalist,rayed,era.mel
+melpomene,meriana,melpomene_meriana,no,1,1,1,solitary,generalist,rayed,era.mel
+melpomene,vicina,melpomene_vicina,no,1,1,1,solitary,generalist,rayed,era.mel
+melpomene,martinae,melpomene_martinae,no,1,1,1,solitary,generalist,rayed,era.mel
+neruda,aoede,neruda_aoede,,,,,,,rayed,era.mel
+numata,numata,numata_numata,,,,,solitary,,silvanoform,numata
+numata,bicoloratus,numata_bicoloratus,,,,,solitary,,silvanoform,numata
+numata,euphrasius,numata_euphrasius,,,,,solitary,,silvanoform,numata
+numata,lenaeus,numata_lenaeus,,,,,solitary,,silvanoform,numata
+numata,silvana,numata_silvana,,,,,solitary,,silvanoform,numata
+sapho,sapho,sapho_sapho,,,,,,,cydno,cydno
+sara,,sara_,yes,15,40,27.5,gregarious,generalist,sara,sara
+sara,sara,sara_sara,yes,15,40,27.5,gregarious,generalist,sara,sara
+sara,magdalena,sara_magdalena,yes,15,40,27.5,gregarious,generalist,sara,sara
+sara,sprucei,sara_sprucei,yes,15,40,27.5,gregarious,generalist,sara,sara
+telesiphe,,telesiphe_,yes,1,1,1,solitary,specialist,black.yellow.red,tele
+telesiphe,sotericus,telesiphe_sotericus,yes,1,1,1,solitary,specialist,black.yellow.red,tele
+timareta,thelxinoe,timareta_thelxinoe,no,1,1,1,solitary,generalist,postman,era.mel
+timareta,tristero,timareta_tristero,no,1,1,1,solitary,generalist,postman,era.mel
+timareta,timareta,timareta_timareta,no,1,1,1,solitary,generalist,rayed,era.mel
+timareta,ssp. nov.,timareta_ssp. nov.,no,1,1,1,solitary,generalist,rayed,era.mel
+wallacei,,wallacei_,no,1,30,15.5,gregarious,generalist,sara,sara
+wallacei,wallacei,wallacei_wallacei,no,1,30,15.5,gregarious,generalist,sara,sara
+wallacei,flavescens,wallacei_flavescens,no,1,30,15.5,gregarious,generalist,sara,sara
+xanthocles,,xanthocles_,,,,,gregarious,,rayed,era.mel
