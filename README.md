@@ -1,0 +1,1 @@
+Data and scripts associated with the article "Altitude and life-history shape the evolution of Heliconius wings", Evolution (2019), by Gabriela Montejo-Kovacevich, Jennifer E. Smith, Joana I. Meier, Caroline N. Bacquet, Eva Whiltshire-Romero, Nicola J. Nadeau & Chris D. Jiggins
