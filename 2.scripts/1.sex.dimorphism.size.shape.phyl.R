@@ -44,11 +44,11 @@ library(pwr)
 library(multcompView)
 
 ####  data  #####
-setwd("/Users/gabrielamontejokovacevich/Dropbox (Cambridge University)/PhD/18_WING_PHYL/")
-master <- read.csv("1.data/analyses/master.analyses.csv")
-mean.df <- read.csv("1.data/analyses/mean.df.analyses.csv")
+setwd("../heliconius-wings-2019/")
+master <- read.csv("1.data/master.analyses.csv")
+mean.df <- read.csv("1.data/mean.df.analyses.csv")
 nat.hist <- read.csv("1.data/species.nat.hist.csv")
-pruned.tree <- read.tree("1.data/analyses/pruned.tree.phylo")
+pruned.tree <- read.tree("1.data/pruned.tree.phylo")
 
 ####  data handling  #####
 master$sp.short <- substr(master$species,0,3)

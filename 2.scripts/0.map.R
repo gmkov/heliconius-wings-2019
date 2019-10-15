@@ -24,7 +24,7 @@ theme_set(theme_bw())
 library("sf")
 
 ######## data ######
-setwd("/Users/gabrielamontejokovacevich/Dropbox (Cambridge University)/PhD/18_WING_PHYL/")
+setwd("../heliconius-wings-2019/")
 master <- read.csv("1.data/analyses/master.analyses.csv")
 
 ###### localities #####
